@@ -1,0 +1,6 @@
+@import url("../styles.css");
+
+.puzzle-tile {
+  background-image: url("/puzzle-photo.png");
+}
+

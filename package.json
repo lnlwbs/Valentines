@@ -1,0 +1,28 @@
+{
+  "name": "valentines",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "valentine",
+    "react",
+    "puzzle"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A small Valentine’s Day puzzle and letter webapp built with React and Vite.",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.11.0",
+    "vite": "^6.4.1"
+  }
+}
